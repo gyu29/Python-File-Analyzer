@@ -1,6 +1,7 @@
 # Python Code Analyzer Chatbot
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Zecrilox](https://img.shields.io/badge/Zecrilox-blue)
 
 This Python chatbot analyzes Python code and answers questions about it. It can provide information about the code structure, complexity, comments, docstrings, and even answer questions about the code.
 
