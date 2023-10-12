@@ -33,5 +33,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - gyu29
 
-Feel free to update this README with your project's specific details, including a more detailed description, usage instructions, installation guidelines, and any other information relevant to your project.
-
